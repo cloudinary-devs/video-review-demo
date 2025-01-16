@@ -74,7 +74,7 @@ export function CloudinaryVideoPlayer({ publicId }: CloudinaryVideoPlayerProps) 
             },
             {
               label: 'Spanish',
-              language: 'es-ES',
+              language: 'es-MX',
             },
             {
               label: 'German',
