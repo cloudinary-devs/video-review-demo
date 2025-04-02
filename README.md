@@ -13,7 +13,7 @@ The app serves as a demonstration platform for handling user-generated content i
 To run the app yourself:
 
 1. Clone or fork this GitHub repo.
-1. In **app/config/cloudinary.ts**, replace **MY_CLOUD_NAME** with your Cloudinary product environment cloud name. You can find your **Cloud name** near the top of the Programmable Media [Dashboard](https://console.cloudinary.com/pm/developer-dashboard) of the Cloudinary Console. [Sign up for free](https://cloudinary.com/users/register_free) if you don't yet have a Cloudinary account.
+1. In **app/config/cloudinary.ts**, replace **MY_CLOUD_NAME** with your Cloudinary product environment cloud name. You can find your **Cloud name** near the top of the [Dashboard](https://console.cloudinary.com/pm/developer-dashboard) of the Cloudinary Console. [Sign up for free](https://cloudinary.com/users/register_free) if you don't yet have a Cloudinary account.
 1. Register for the following add-ons (they all have free tiers):
      * [Google Translation add-on](https://cloudinary.com/documentation/translation_addons)
      * [Amazon Rekognition Video Moderation add-on](https://cloudinary.com/documentation/aws_rekognition_video_moderation_addon)
